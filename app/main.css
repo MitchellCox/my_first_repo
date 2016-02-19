@@ -1,4 +1,6 @@
 .purple {color: purple;}
+.pointer {cursor: pointer;
+}
 
 body{
 	background-color: black;
